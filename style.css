@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.attribution {
+  font-size: 16px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  background-color: hsl(0, 0%, 99%);
+}
+
+.page-contents {
+  background-color: hsl(0, 0%, 96%);
+  max-width: 1200px;
+  height: 97vh;
+  margin: auto;
+  padding: 10px;
+}
+
+.page-info {
+  padding: 10px;
+  margin: auto;
+}
+
+.page-highlight {
+  font-family: "Poppins";
+  font-weight: 100;
+  text-align: center;
+  font-size: 28px;
+  color: hsl(229, 6%, 66%);
+}
+.page-highlight:nth-child(2) {
+  font-family: "Poppins";
+  font-weight: 900;
+  color: hsl(234, 12%, 34%);
+  letter-spacing: 0.05em;
+}
+.page-para {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  margin: 5px;
+  text-align: center;
+  color: hsl(229, 6%, 66%);
+}
+
+.info-box1 {
+  /* border: 1px solid red; */
+  width: 800px;
+  height: 500px;
+  position: absolute;
+  left: 282px;
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.team-builder {
+  border-top: 4px solid hsl(0, 78%, 62%);
+  padding: 20px;
+}
+.karma {
+  border-top: 4px solid hsl(34, 97%, 64%);
+  padding: 20px;
+}
+.supervisor {
+  border-top: 4px solid hsl(180, 62%, 55%);
+  padding: 20px;
+}
+.calculator {
+  border-top: 4px solid hsl(212, 86%, 64%);
+  padding: 20px;
+}
+* h2 {
+  font-family: "Poppins";
+  font-weight: 900;
+  color: hsl(234, 12%, 34%);
+  font-size: 20px;
+  padding: 10px;
+}
+* .box-para {
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  color: hsl(229, 6%, 66%);
+  padding: 10px;
+  line-height: 1.25em;
+}
+.box-icon img {
+  margin-top: 35px;
+  height: 45px;
+  width: 45px;
+  float: right;
+}
+.team-builder,
+.karma {
+  background-color: white;
+  border-radius: 5px;
+  width: 300px;
+  height: 250px;
+}
+
+.info-box2 {
+  display: flex;
+  justify-content: space-between;
+  width: 950px;
+  margin: auto;
+  height: 500px;
+  align-items: center;
+}
+
+.supervisor,
+.calculator {
+  border-radius: 5px;
+  background-color: white;
+  width: 300px;
+  height: 250px;
+}
