@@ -15,7 +15,7 @@ Every Line of code writte by Austin.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://four-card-feature-section-mu-fawn.vercel.app/]
 
 ## My process
 
@@ -43,8 +43,8 @@ I havn't made the mobile view as I'm yet to learn better about media querries.
 
 ## Author
 
--Name- Austin
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ausranking)
+- Name - Austin
+- Frontend Mentor - [@Austranking](https://www.frontendmentor.io/profile/Ausranking)
 - Twitter - [Austranking](https://www.twitter.com/austinnze1000)
 
 ## Acknowledgments
