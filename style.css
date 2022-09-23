@@ -50,7 +50,6 @@ body {
 }
 
 .info-box1 {
-  /* border: 1px solid red; */
   width: 800px;
   height: 500px;
   position: absolute;
@@ -112,7 +111,7 @@ body {
 .info-box2 {
   display: flex;
   justify-content: space-between;
-  width: 950px;
+  width: 940px;
   margin: auto;
   height: 500px;
   align-items: center;
